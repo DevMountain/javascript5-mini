@@ -4,7 +4,7 @@
 
 ### Objectives
 - Become more proficient in debugging while fixing common bugs.
-- Add another skill by learning how to use lodash.js.
+- Add another skill to make your project amazing by learning how to use lodash.js. 
 
 #### Steps
 1. `cd` into app1 and run `npm install` to install dependencies. app1 is a react app that is currently broken. Use your debugging techniques to fix the app.
