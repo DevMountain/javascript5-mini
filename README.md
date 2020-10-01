@@ -1,6 +1,7 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Javascript 5 Mini Project
+# amazing code for learning
 
 ### Objectives
 - Become more proficient in debugging while fixing common bugs.
